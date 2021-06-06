@@ -5,7 +5,7 @@ Blackjack is pretty simple. The basic premise of the game is that you want to ha
 # Screenshot
 ![MyLove](https://i.imgur.com/lZwFNE3.png)
 
-# Getting Started: 
+# Getting Started: (https://davidjy053.github.io/blackjack/)
 
 # Technologies Used
 JavaScript, HTML, CSS
